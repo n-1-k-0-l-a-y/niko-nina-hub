@@ -31,6 +31,8 @@ const HubLink = styled.a`
   position: fixed;
   right: 6px;
   bottom: 4px;
+  text-decoration: none;
+  color: #0070f3;
 `;
 
 const HubImage = styled.img`
