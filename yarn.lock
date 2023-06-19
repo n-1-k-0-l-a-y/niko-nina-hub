@@ -12017,33 +12017,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"my-nina-hub@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "my-nina-hub@workspace:."
-  dependencies:
-    "@nina-protocol/js-sdk": ^0.0.12
-    "@solana/wallet-adapter-base": ^0.9.19
-    "@solana/wallet-adapter-react": ^0.15.25
-    "@solana/wallet-adapter-react-ui": ^0.9.23
-    "@solana/wallet-adapter-wallets": ^0.19.7
-    "@solana/web3.js": ^1.69.0
-    "@testing-library/jest-dom": ^5.14.1
-    "@testing-library/react": ^13.0.0
-    "@testing-library/user-event": ^13.2.1
-    "@types/jest": ^27.0.1
-    "@types/node": ^16.7.13
-    "@types/react": ^18.0.0
-    "@types/react-dom": ^18.0.0
-    "@types/styled-components": ^5.1.26
-    react: ^18.2.0
-    react-dom: ^18.2.0
-    react-scripts: 5.0.1
-    styled-components: ^5.3.6
-    typescript: ^4.4.2
-    web-vitals: ^2.1.0
-  languageName: unknown
-  linkType: soft
-
 "nan@npm:^2.14.0, nan@npm:^2.14.2":
   version: 2.17.0
   resolution: "nan@npm:2.17.0"
@@ -12089,6 +12062,33 @@ __metadata:
   checksum: deac9f8d00eda7b2e5cd1b2549e26e10a0faa70adaa6fdadca701cc55f49ee9018e427f424bac0c790b7c7e2d3068db97f3093f1093975f2acb8f8818b936ed9
   languageName: node
   linkType: hard
+
+"niko-nina-hub@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "niko-nina-hub@workspace:."
+  dependencies:
+    "@nina-protocol/js-sdk": ^0.0.12
+    "@solana/wallet-adapter-base": ^0.9.19
+    "@solana/wallet-adapter-react": ^0.15.25
+    "@solana/wallet-adapter-react-ui": ^0.9.23
+    "@solana/wallet-adapter-wallets": ^0.19.7
+    "@solana/web3.js": ^1.69.0
+    "@testing-library/jest-dom": ^5.14.1
+    "@testing-library/react": ^13.0.0
+    "@testing-library/user-event": ^13.2.1
+    "@types/jest": ^27.0.1
+    "@types/node": ^16.7.13
+    "@types/react": ^18.0.0
+    "@types/react-dom": ^18.0.0
+    "@types/styled-components": ^5.1.26
+    react: ^18.2.0
+    react-dom: ^18.2.0
+    react-scripts: 5.0.1
+    styled-components: ^5.3.6
+    typescript: ^4.4.2
+    web-vitals: ^2.1.0
+  languageName: unknown
+  linkType: soft
 
 "no-case@npm:^3.0.4":
   version: 3.0.4
