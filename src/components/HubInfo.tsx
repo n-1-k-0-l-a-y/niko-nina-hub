@@ -17,6 +17,7 @@ function HubInfo() {
     </HubInfoContainer>
   );
 }
+
 const HubInfoContainer = styled.div`
   display: flex;
   justify-content: center;
