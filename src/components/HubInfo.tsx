@@ -13,11 +13,7 @@ function HubInfo() {
   return (
     <HubInfoContainer className="HubInfo">
       <HubImage src={hub.data.image} />
-      <>
-        <HubLink href={hub.data.externalUrl} target="_blank" rel="noreferrer">
-          View on Nina
-        </HubLink>
-      </>
+      <HubLink href={hub.data.externalUrl} target="_blank" rel="noreferrer">View on Nina</HubLink>
     </HubInfoContainer>
   );
 }
